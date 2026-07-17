@@ -1,0 +1,4 @@
+zenith_core/
+├── engine.py       # Handles telemetry, system math, and threads
+├── renderer.py     # Handles ANSI formatting, text blocks, and layout
+└── main.py         # App entry point and execution loop
